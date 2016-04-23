@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  InteligentConnection
+//
+//  Created by 梵虚 on 15/11/5.
+//  Copyright © 2015年 梵虚. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "CustomerCollectionHeader.h"
+
+
+#endif /* PrefixHeader_pch */
